@@ -1,13 +1,13 @@
 # Frontend Mentor - Clipboard landing page solution
 
-:point_right: This is the [Clipboard landing page](aqui va el reto de frontendmentor) challenge on Frontend Mentor.
+:point_right: This is the [Clipboard landing page](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9) challenge on Frontend Mentor.
 
 ## Overview
 
 ### Links
 
-:heavy_check_mark: My `Solution` URL : [Frontend Mentor Solution](Aqui va tu solucion de frontendmentor) </br>
-:heavy_check_mark: My `Live` Site URL : [GitHub Pages](Aqui va tu solucion de github pages)
+:heavy_check_mark: My `Solution` URL : [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/mobile-first-drHaFp9GZ) </br>
+:heavy_check_mark: My `Live` Site URL : [GitHub Pages](https://alexcarmonadev.github.io/fm29_clipboard_landing_page/)
 
 Give a ⭐️ if you like this project!
 
